@@ -1,0 +1,128 @@
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminStartup.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmApprove.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAssignGrades.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmCourseTechInfo.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmForgetPass.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmGrades.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmLogin.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentReg.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentStartup.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherProfile.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherSendMsg.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeachersStartup.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.studentProfile.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpNotice.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpBook.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpBook.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpNotice.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminStartup.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmApprove.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAssignGrades.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmCourseTechInfo.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmForgetPass.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmGrades.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmLogin.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentReg.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentStartup.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherProfile.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherSendMsg.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeachersStartup.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.studentProfile.resources
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Fahim Afser\Desktop\New folder\version 1.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmBookCatagory.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpBook.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpNotice.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminStartup.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmApprove.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAssignGrades.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmBookCatagory.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmCourseTechInfo.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmForgetPass.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmGrades.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmLogin.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentReg.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentStartup.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherProfile.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeachersStartup.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.studentProfile.resources
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Fahim Afser\Desktop\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherNoticeUp.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpBook.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpNotice.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminStartup.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmApprove.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAssignGrades.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmBookCatagory.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmCourseTechInfo.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmForgetPass.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmGrades.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmLogin.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentReg.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentStartup.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherNoticeUp.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherProfile.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeachersStartup.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.SeeBooks.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.studentProfile.resources
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Fahim Afser\Desktop\version 1.0\Version2.0\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\mscorlib.dll
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\System.Net.Http.dll
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\System.Net.Http.xml
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\normidna.nlp
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\normnfc.nlp
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\normnfd.nlp
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\normnfkc.nlp
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\bin\Debug\normnfkd.nlp
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpBook.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminUpNotice.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAdminStartup.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmApprove.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmAssignGrades.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmBookCatagory.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmCourseTechInfo.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmForgetPass.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmGrades.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmLogin.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentReg.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmStudentStartup.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherNoticeUp.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeacherProfile.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.frmTeachersStartup.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.SeeBooks.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.studentProfile.resources
+C:\Users\Fahim\Downloads\Version2.1\Version2.1\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
